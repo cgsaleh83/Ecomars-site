@@ -39,7 +39,6 @@
 }
 .card:hover{
     box-shadow: none;
-    border: 1px solid lightgrey;
 }
 .section-title{
     width: 100%;
@@ -97,7 +96,6 @@
 }
 .box-img img:hover{
     box-shadow: none;
-    border: 1px solid lightgrey;
 }
 .box-img1{
     margin-right: 40px;
